@@ -1,0 +1,12 @@
+body {
+    background-image: url('./assets/background.jpeg'); /* Specify the image URL */
+    background-size: cover; /* Ensures the image covers the entire page */
+    background-position: center; /* Center the image */
+    background-attachment: fixed; /* Keeps the background fixed while scrolling (optional) */
+    min-height: 100vh; /* Ensure the body takes at least the full height of the viewport */
+    margin: 0; /* Remove default margin */
+  }
+
+  * {
+    box-sizing: border-box;
+  }
